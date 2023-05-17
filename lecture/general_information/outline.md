@@ -19,4 +19,10 @@ Please see below for our current optimistic schedule. Depending on our progress,
 
 | Date (day/month/year) 🗓         | Topic   | Assignment / deadline |
 |--------------|-----------|------------|
-| 28/10/2022 | Introduction I - course information & setup  | /not applicable |
+| 05/06/2023 | Introduction - What is cognitive neuroscience? | /not applicable |
+| 12/06/2023 | Magnetic Resonance Imaging (MRI) | /not applicable |
+| 19/06/2023 | Electroencephalography (EEG)  | /not applicable |
+| 26/06/2023 | Models and networkbased approaches | /not applicable |
+| 05/06/2023 | Machine learning & AI | /not applicable |
+| 05/06/2023 | Practice: Research proposals | /not applicable |
+

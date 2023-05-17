@@ -3,8 +3,7 @@
 
 ## "What's in this repository?"
 
-This is a template repository for creating online courses in higher education created for the DiLER (Digital Literacy for Empirical Research) project, financed by DIGITELL (Goethe-University Frankfurt).
-
+This is a repository for the online presence of the course "Methods of cognitive Neuroscience" (Module PsyBSc13, SOSE 2023) of the Goethe-University Frankfurt based on the [DiLER (Digital Literacy for Empirical Research)](https://github.com/DiLER-Digitell/Diler-Digitell.github.io) template.
 
 
 You'll find the following:

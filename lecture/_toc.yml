@@ -7,13 +7,14 @@ chapters:
 - file: general_information/setup
 - file: introduction/intro
   sections:
-  - file: introduction/static_content
-  - file: introduction/interactive_notebook
+  - file: introduction/intro_methods
 - file: content/intro_content
   sections:
-  - file: content/static_content.md
-  - file: content/interactive_notebook.md
-  - file: content/creating_content_example.ipynb
+  - file: content/2_MRI
+  - file: content/3_MEG
+  - file: content/4_neurocognitive_models
+  - file: content/5_ML_AI
+  - file: content/6_research_proposals
 - file: general_information/results_communication
 - file: general_information/symposium
 - file: general_information/CoC
